@@ -1,2 +1,2 @@
 # mini-css
-This is mini-CSS project with HTML and CSS.
+This is mini-CSS Project with HTML and CSS.
