@@ -1,2 +1,2 @@
-# mini-css
+# mini-css-Components
 This is mini-CSS Project with HTML and CSS.
